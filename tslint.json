@@ -1,0 +1,8 @@
+{
+    "extends": ["tslint:recommended"],
+    "rules": {
+        "jsx-wrap-multiline": false,
+        "no-console": [false, "log", "error"],
+        "no-unused-expression": [true, "allow-new"]
+    }
+}
