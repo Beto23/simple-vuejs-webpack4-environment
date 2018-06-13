@@ -1,6 +1,5 @@
 <template>
     <div>
-        <h1 class="title">Hello Vuejs!</h1>
-        <img src="./assets/images/pexels.jpeg" />
+        <h1 class="title">Hello world</h1>
     </div>
 </template>
