@@ -1,10 +1,10 @@
-# simple-react-environment-webpack-typescript-sass
+# simple-vuejs-webpack4-environment
 
 ## To run the app locally:
 
 ```
-* git clone https://github.com/Beto23/simple-react-environment-webpack-typescript-sass.git
-* cd simple-react-environment-webpack-typescript-sass
+* git clone https://github.com/Beto23/simple-vuejs-webpack4-environment.git
+* cd simple-vuejs-webpack4-environment
 * npm install
 * npm run dev
 ```
